@@ -1,0 +1,212 @@
+Those are the results of the code in separare file:
+
+1 ended at 8. cycle is 12 of elements:
+[2, 4, 8, 16, 32, 64, 72, 56, 88, 24, 48, 96]
+2 ended at 8. cycle is 11 of elements:
+[4, 8, 16, 32, 64, 72, 56, 88, 24, 48, 96]
+3 ended at 24. cycle is 12 of elements:
+[6, 12, 24, 48, 96, 8, 16, 32, 64, 72, 56, 88]
+4 ended at 8. cycle is 10 of elements:
+[8, 16, 32, 64, 72, 56, 88, 24, 48, 96]
+5 ended at 40. cycle is 4 of elements:
+[10, 20, 40, 80]
+6 ended at 24. cycle is 11 of elements:
+[12, 24, 48, 96, 8, 16, 32, 64, 72, 56, 88]
+7 ended at 56. cycle is 12 of elements:
+[14, 28, 56, 88, 24, 48, 96, 8, 16, 32, 64, 72]
+8 ended at 16. cycle is 10 of elements:
+[16, 32, 64, 72, 56, 88, 24, 48, 96, 8]
+9 ended at 72. cycle is 12 of elements:
+[18, 36, 72, 56, 88, 24, 48, 96, 8, 16, 32, 64]
+10 ended at 40. cycle is 3 of elements:
+[20, 40, 80]
+11 ended at 88. cycle is 12 of elements:
+[22, 44, 88, 24, 48, 96, 8, 16, 32, 64, 72, 56]
+12 ended at 24. cycle is 10 of elements:
+[24, 48, 96, 8, 16, 32, 64, 72, 56, 88]
+13 ended at 96. cycle is 12 of elements:
+[26, 52, 96, 8, 16, 32, 64, 72, 56, 88, 24, 48]
+14 ended at 56. cycle is 11 of elements:
+[28, 56, 88, 24, 48, 96, 8, 16, 32, 64, 72]
+15 ended at 80. cycle is 4 of elements:
+[30, 60, 80, 40]
+16 ended at 32. cycle is 10 of elements:
+[32, 64, 72, 56, 88, 24, 48, 96, 8, 16]
+17 ended at 64. cycle is 12 of elements:
+[34, 68, 64, 72, 56, 88, 24, 48, 96, 8, 16, 32]
+18 ended at 72. cycle is 11 of elements:
+[36, 72, 56, 88, 24, 48, 96, 8, 16, 32, 64]
+19 ended at 48. cycle is 12 of elements:
+[38, 76, 48, 96, 8, 16, 32, 64, 72, 56, 88, 24]
+20 ended at 40. cycle is 2 of elements:
+[40, 80]
+21 ended at 32. cycle is 12 of elements:
+[42, 84, 32, 64, 72, 56, 88, 24, 48, 96, 8, 16]
+22 ended at 88. cycle is 11 of elements:
+[44, 88, 24, 48, 96, 8, 16, 32, 64, 72, 56]
+23 ended at 16. cycle is 12 of elements:
+[46, 92, 16, 32, 64, 72, 56, 88, 24, 48, 96, 8]
+24 ended at 48. cycle is 10 of elements:
+[48, 96, 8, 16, 32, 64, 72, 56, 88, 24]
+25 ended at 0. cycle is 3 of elements:
+[50, 100, 0]
+26 ended at 96. cycle is 11 of elements:
+[52, 96, 8, 16, 32, 64, 72, 56, 88, 24, 48]
+27 ended at 16. cycle is 12 of elements:
+[54, 92, 16, 32, 64, 72, 56, 88, 24, 48, 96, 8]
+28 ended at 56. cycle is 10 of elements:
+[56, 88, 24, 48, 96, 8, 16, 32, 64, 72]
+29 ended at 32. cycle is 12 of elements:
+[58, 84, 32, 64, 72, 56, 88, 24, 48, 96, 8, 16]
+30 ended at 80. cycle is 3 of elements:
+[60, 80, 40]
+31 ended at 48. cycle is 12 of elements:
+[62, 76, 48, 96, 8, 16, 32, 64, 72, 56, 88, 24]
+32 ended at 64. cycle is 10 of elements:
+[64, 72, 56, 88, 24, 48, 96, 8, 16, 32]
+33 ended at 64. cycle is 12 of elements:
+[66, 68, 64, 72, 56, 88, 24, 48, 96, 8, 16, 32]
+34 ended at 64. cycle is 11 of elements:
+[68, 64, 72, 56, 88, 24, 48, 96, 8, 16, 32]
+35 ended at 80. cycle is 4 of elements:
+[70, 60, 80, 40]
+36 ended at 72. cycle is 10 of elements:
+[72, 56, 88, 24, 48, 96, 8, 16, 32, 64]
+37 ended at 96. cycle is 12 of elements:
+[74, 52, 96, 8, 16, 32, 64, 72, 56, 88, 24, 48]
+38 ended at 48. cycle is 11 of elements:
+[76, 48, 96, 8, 16, 32, 64, 72, 56, 88, 24]
+39 ended at 88. cycle is 12 of elements:
+[78, 44, 88, 24, 48, 96, 8, 16, 32, 64, 72, 56]
+40 ended at 80. cycle is 2 of elements:
+[80, 40]
+41 ended at 72. cycle is 12 of elements:
+[82, 36, 72, 56, 88, 24, 48, 96, 8, 16, 32, 64]
+42 ended at 32. cycle is 11 of elements:
+[84, 32, 64, 72, 56, 88, 24, 48, 96, 8, 16]
+43 ended at 56. cycle is 12 of elements:
+[86, 28, 56, 88, 24, 48, 96, 8, 16, 32, 64, 72]
+44 ended at 88. cycle is 10 of elements:
+[88, 24, 48, 96, 8, 16, 32, 64, 72, 56]
+45 ended at 40. cycle is 4 of elements:
+[90, 20, 40, 80]
+46 ended at 16. cycle is 11 of elements:
+[92, 16, 32, 64, 72, 56, 88, 24, 48, 96, 8]
+47 ended at 24. cycle is 12 of elements:
+[94, 12, 24, 48, 96, 8, 16, 32, 64, 72, 56, 88]
+48 ended at 96. cycle is 10 of elements:
+[96, 8, 16, 32, 64, 72, 56, 88, 24, 48]
+49 ended at 8. cycle is 12 of elements:
+[98, 4, 8, 16, 32, 64, 72, 56, 88, 24, 48, 96]
+50 ended at 0. cycle is 2 of elements:
+[100, 0]
+51 ended at 8. cycle is 12 of elements:
+[98, 4, 8, 16, 32, 64, 72, 56, 88, 24, 48, 96]
+52 ended at 96. cycle is 10 of elements:
+[96, 8, 16, 32, 64, 72, 56, 88, 24, 48]
+53 ended at 24. cycle is 12 of elements:
+[94, 12, 24, 48, 96, 8, 16, 32, 64, 72, 56, 88]
+54 ended at 16. cycle is 11 of elements:
+[92, 16, 32, 64, 72, 56, 88, 24, 48, 96, 8]
+55 ended at 40. cycle is 4 of elements:
+[90, 20, 40, 80]
+56 ended at 88. cycle is 10 of elements:
+[88, 24, 48, 96, 8, 16, 32, 64, 72, 56]
+57 ended at 56. cycle is 12 of elements:
+[86, 28, 56, 88, 24, 48, 96, 8, 16, 32, 64, 72]
+58 ended at 32. cycle is 11 of elements:
+[84, 32, 64, 72, 56, 88, 24, 48, 96, 8, 16]
+59 ended at 72. cycle is 12 of elements:
+[82, 36, 72, 56, 88, 24, 48, 96, 8, 16, 32, 64]
+60 ended at 80. cycle is 2 of elements:
+[80, 40]
+61 ended at 88. cycle is 12 of elements:
+[78, 44, 88, 24, 48, 96, 8, 16, 32, 64, 72, 56]
+62 ended at 48. cycle is 11 of elements:
+[76, 48, 96, 8, 16, 32, 64, 72, 56, 88, 24]
+63 ended at 96. cycle is 12 of elements:
+[74, 52, 96, 8, 16, 32, 64, 72, 56, 88, 24, 48]
+64 ended at 72. cycle is 10 of elements:
+[72, 56, 88, 24, 48, 96, 8, 16, 32, 64]
+65 ended at 80. cycle is 4 of elements:
+[70, 60, 80, 40]
+66 ended at 64. cycle is 11 of elements:
+[68, 64, 72, 56, 88, 24, 48, 96, 8, 16, 32]
+67 ended at 64. cycle is 12 of elements:
+[66, 68, 64, 72, 56, 88, 24, 48, 96, 8, 16, 32]
+68 ended at 64. cycle is 10 of elements:
+[64, 72, 56, 88, 24, 48, 96, 8, 16, 32]
+69 ended at 48. cycle is 12 of elements:
+[62, 76, 48, 96, 8, 16, 32, 64, 72, 56, 88, 24]
+70 ended at 80. cycle is 3 of elements:
+[60, 80, 40]
+71 ended at 32. cycle is 12 of elements:
+[58, 84, 32, 64, 72, 56, 88, 24, 48, 96, 8, 16]
+72 ended at 56. cycle is 10 of elements:
+[56, 88, 24, 48, 96, 8, 16, 32, 64, 72]
+73 ended at 16. cycle is 12 of elements:
+[54, 92, 16, 32, 64, 72, 56, 88, 24, 48, 96, 8]
+74 ended at 96. cycle is 11 of elements:
+[52, 96, 8, 16, 32, 64, 72, 56, 88, 24, 48]
+75 ended at 0. cycle is 3 of elements:
+[50, 100, 0]
+76 ended at 48. cycle is 10 of elements:
+[48, 96, 8, 16, 32, 64, 72, 56, 88, 24]
+77 ended at 16. cycle is 12 of elements:
+[46, 92, 16, 32, 64, 72, 56, 88, 24, 48, 96, 8]
+78 ended at 88. cycle is 11 of elements:
+[44, 88, 24, 48, 96, 8, 16, 32, 64, 72, 56]
+79 ended at 32. cycle is 12 of elements:
+[42, 84, 32, 64, 72, 56, 88, 24, 48, 96, 8, 16]
+80 ended at 40. cycle is 2 of elements:
+[40, 80]
+81 ended at 48. cycle is 12 of elements:
+[38, 76, 48, 96, 8, 16, 32, 64, 72, 56, 88, 24]
+82 ended at 72. cycle is 11 of elements:
+[36, 72, 56, 88, 24, 48, 96, 8, 16, 32, 64]
+83 ended at 64. cycle is 12 of elements:
+[34, 68, 64, 72, 56, 88, 24, 48, 96, 8, 16, 32]
+84 ended at 32. cycle is 10 of elements:
+[32, 64, 72, 56, 88, 24, 48, 96, 8, 16]
+85 ended at 80. cycle is 4 of elements:
+[30, 60, 80, 40]
+86 ended at 56. cycle is 11 of elements:
+[28, 56, 88, 24, 48, 96, 8, 16, 32, 64, 72]
+87 ended at 96. cycle is 12 of elements:
+[26, 52, 96, 8, 16, 32, 64, 72, 56, 88, 24, 48]
+88 ended at 24. cycle is 10 of elements:
+[24, 48, 96, 8, 16, 32, 64, 72, 56, 88]
+89 ended at 88. cycle is 12 of elements:
+[22, 44, 88, 24, 48, 96, 8, 16, 32, 64, 72, 56]
+90 ended at 40. cycle is 3 of elements:
+[20, 40, 80]
+91 ended at 72. cycle is 12 of elements:
+[18, 36, 72, 56, 88, 24, 48, 96, 8, 16, 32, 64]
+92 ended at 16. cycle is 10 of elements:
+[16, 32, 64, 72, 56, 88, 24, 48, 96, 8]
+93 ended at 56. cycle is 12 of elements:
+[14, 28, 56, 88, 24, 48, 96, 8, 16, 32, 64, 72]
+94 ended at 24. cycle is 11 of elements:
+[12, 24, 48, 96, 8, 16, 32, 64, 72, 56, 88]
+95 ended at 40. cycle is 4 of elements:
+[10, 20, 40, 80]
+96 ended at 8. cycle is 10 of elements:
+[8, 16, 32, 64, 72, 56, 88, 24, 48, 96]
+97 ended at 24. cycle is 12 of elements:
+[6, 12, 24, 48, 96, 8, 16, 32, 64, 72, 56, 88]
+98 ended at 8. cycle is 11 of elements:
+[4, 8, 16, 32, 64, 72, 56, 88, 24, 48, 96]
+99 ended at 8. cycle is 12 of elements:
+[2, 4, 8, 16, 32, 64, 72, 56, 88, 24, 48, 96]
+
+////////////////////////////////////// 
+
+avg is 9.696969696969697 
+max value is 12.
+distribituion goes like: 
+2 steps to cycle for 5 values: [20, 40, 50, 60, 80]
+3 steps to cycle for 6 values: [10, 25, 30, 70, 75, 90]
+4 steps to cycle for 8 values: [5, 15, 35, 45, 55, 65, 85, 95]
+10 steps to cycle for 20 values: [4, 8, 12, 16, 24, 28, 32, 36, 44, 48, 52, 56, 64, 68, 72, 76, 84, 88, 92, 96]
+11 steps to cycle for 20 values: [2, 6, 14, 18, 22, 26, 34, 38, 42, 46, 54, 58, 62, 66, 74, 78, 82, 86, 94, 98]
+12 steps to cycle for 40 values: [1, 3, 7, 9, 11, 13, 17, 19, 21, 23, 27, 29, 31, 33, 37, 39, 41, 43, 47, 49, 51, 53, 57, 59, 61, 63, 67, 69, 71, 73, 77, 79, 81, 83, 87, 89, 91, 93, 97, 99]
